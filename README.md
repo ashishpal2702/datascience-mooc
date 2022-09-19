@@ -15,4 +15,5 @@ Skills
 
 
 ## Python 🐍 
-1. Python Bootcamp - https://github.com/ashishpal2702/Python-Bootcamp
+1. [Python Bootcamp] - (https://github.com/ashishpal2702/Python-Bootcamp)
+2. 
