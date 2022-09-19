@@ -5,8 +5,8 @@
 
 Skills 
 
-1. #Python
-2. #Statistics
+1. Python
+2. Statistics
 3. Data Engineering
 4. Machine learning
 5. Deep learning
@@ -19,3 +19,9 @@ Skills
 2. [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 ## Statistics 📈 
+
+1. 
+
+
+## Machine learning 🧑‍💻 
+
