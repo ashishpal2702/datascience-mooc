@@ -1,2 +1,2 @@
-# datascience-mooc
-Self paced Data science learning
+# Data Science-MOOC
+## Self paced Data science learning path 
